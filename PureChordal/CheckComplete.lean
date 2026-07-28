@@ -1,0 +1,4 @@
+import PureChordal.Main
+
+#print axioms PureChordal.pureChordal_chromaticPolynomial_lower_bound
+#print axioms PureChordal.pureChordal_balancedMultipartite_minimal
